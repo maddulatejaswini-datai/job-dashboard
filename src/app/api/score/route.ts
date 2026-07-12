@@ -37,7 +37,8 @@ async function extractResumeText(formData: FormData): Promise<string | { error: 
     try {
       const result = await parser.getText();
       return result.text;
-    } catch {
+    } catch (err) {
+      console.error("PDF parse failed:", err);
       return { error: "Couldn't read that PDF. Try a different file or paste the text instead." };
     } finally {
       await parser.destroy();
