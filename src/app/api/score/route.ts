@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
 import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { z } from "zod";
-import { PDFParse } from "pdf-parse";
+import { extractText } from "unpdf";
 import { jobs } from "@/lib/jobs";
 
 export const runtime = "nodejs";
@@ -32,16 +32,13 @@ async function extractResumeText(formData: FormData): Promise<string | { error: 
       return { error: "PDF is too large (max 8MB)." };
     }
 
-    const buffer = new Uint8Array(await file.arrayBuffer());
-    const parser = new PDFParse({ data: buffer });
     try {
-      const result = await parser.getText();
-      return result.text;
+      const buffer = new Uint8Array(await file.arrayBuffer());
+      const { text } = await extractText(buffer, { mergePages: true });
+      return text;
     } catch (err) {
       console.error("PDF parse failed:", err);
       return { error: "Couldn't read that PDF. Try a different file or paste the text instead." };
-    } finally {
-      await parser.destroy();
     }
   }
 
@@ -53,6 +50,15 @@ async function extractResumeText(formData: FormData): Promise<string | { error: 
 }
 
 export async function POST(request: NextRequest) {
+  try {
+    return await handleScoreRequest(request);
+  } catch (err) {
+    console.error("Unhandled error in /api/score:", err);
+    return NextResponse.json({ error: "Something went wrong. Please try again." }, { status: 500 });
+  }
+}
+
+async function handleScoreRequest(request: NextRequest) {
   let formData: FormData;
   try {
     formData = await request.formData();
