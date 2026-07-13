@@ -5,6 +5,7 @@ export type Job = {
   location: string;
   applyUrl: string;
   description: string;
+  source?: string;
 };
 
 export type ScoreResult = {

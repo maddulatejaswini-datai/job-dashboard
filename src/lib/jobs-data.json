@@ -1,0 +1,839 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Systems Engineer TS/SCI with Poly, Data/Cloud",
+    "company": "Gliacell Technologies Llc",
+    "location": "Annapolis, MD",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=08a3bbbd89f09b55",
+    "description": "A Federal contracting company is seeking a Senior Systems Engineer to support mission-related systems for a U.S. Government customer. This role requires an active TS/SCI with Polygraph security clearance and 14 years of relevant experience. Responsibilities include implementing data engineering solutions and interacting with multiple data formats. The position offers a salary range of $170,000 to $230,000 along with comprehensive benefits including medical coverage and paid time off.",
+    "source": "Indeed"
+  },
+  {
+    "id": "2",
+    "title": "Senior Staff Data Engineer - Platform Data and Analytics",
+    "company": "Faire",
+    "location": "San Francisco, CA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=614899e76cd2f371",
+    "description": "Faire is a technology wholesale platform. This role is for a highly experienced technical leader in the data space, influencing multiple Platform and Product groups. You'll lead architecture development with a focus on data integrity, security, performance, scale, reliability, monitoring/alerting for ETL/ELT pipelines, data ingest and warehousing at petabyte scale. Requires strong SQL and Python skills, Snowflake, Airflow, Spark experience.",
+    "source": "Indeed"
+  },
+  {
+    "id": "3",
+    "title": "Data Engineer - Spark, Hadoop, Ozone CH, Flink | Berkley Heights, NJ (Onsite) | Contract W2 only",
+    "company": "Next Gen Software Solutions",
+    "location": "Berkeley Heights, NJ 07922",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14",
+    "description": "Seeking a highly skilled Big Data Engineer with strong experience in Apache Spark, Hadoop ecosystem, and Apache Ozone. Design, develop, and optimize large-scale data processing systems. Develop Spark applications for data transformation, aggregation, and ETL processes using Scala, Java, or Python. Manage HDFS, Apache Ozone, and Kafka for scalable, fault-tolerant storage.",
+    "source": "Indeed"
+  },
+  {
+    "id": "4",
+    "title": "Sr. Software Engineer (Data Migration)",
+    "company": "eQ Technologic Inc.",
+    "location": "Costa Mesa, CA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=b807900c55f5a276",
+    "description": "Customer-facing role leading design, configuration, and implementation of eQube-based Business Intelligence, Application Migration and real-time Integration Solutions. Requires 4+ recent years data migration experience within ERP systems, ETL experience, and 6+ years coding in Java/JavaScript. DoD experience and security clearance preferred.",
+    "source": "Indeed"
+  },
+  {
+    "id": "5",
+    "title": "Senior Data Engineer - Data Platform & Martech Engineering",
+    "company": "Gen Digital Inc.",
+    "location": "New York, NY",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=5c5cb397b1e7e030",
+    "description": "Join the MoneyLion Data Platform & Martech Engineering team, designing, building, and scaling data foundations powering analytics, customer engagement, marketing activation, and AI initiatives. Requires 5+ years building production-grade data platforms, dimensional data modeling (Kimball), expert SQL and Python/Spark, and experience with Snowflake, Databricks, Airflow, or dbt.",
+    "source": "Indeed"
+  },
+  {
+    "id": "6",
+    "title": "Data Engineer III",
+    "company": "Frost Bank",
+    "location": "San Antonio, TX",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=4fc563963b8a12ed",
+    "description": "Lead the development and implementation of ETL processes and data pipelines, designing and building scalable and reliable data infrastructures. Requires a Bachelor's degree plus 4 years as a data engineer, with experience in SQL/NoSQL databases, ETL tools, data modeling, Python, API development, and big data technology such as Hadoop and Spark.",
+    "source": "Indeed"
+  },
+  {
+    "id": "7",
+    "title": "Senior Data Engineer (Hybrid, Houston based)",
+    "company": "Rectorseal",
+    "location": "Houston, TX 77055",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=56bf46bcdf3a7d3e",
+    "description": "Implement and maintain an Azure cloud-based data platform, building scalable medallion architecture solutions. Requires 5+ years hands-on data engineering with Databricks (Delta Lake, PySpark/Spark SQL), Azure Data Factory, Azure Data Lake Storage, and 5+ years working with Oracle and SQL Server, plus experience with Unity Catalog, RBAC/ABAC, and Power BI.",
+    "source": "Indeed"
+  },
+  {
+    "id": "8",
+    "title": "Palantir Data Architect - W2 Contract - USC only",
+    "company": "Fortira Inc",
+    "location": "United States",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=35570a4b1301387f",
+    "description": "Seeking a senior-level data architect with 2+ years of continuous, hands-on experience developing solutions using Palantir Foundry. Requires from-scratch Ontology Design, strong TypeScript Functions development, data pipelines using Pipeline Builder, and strong programming in TypeScript, Python, and PySpark. US Citizen only, primarily remote.",
+    "source": "Indeed"
+  },
+  {
+    "id": "9",
+    "title": "AI Data Engineer – Platform & Analytics",
+    "company": "Advanced Micro Devices, Inc",
+    "location": "Santa Clara, CA 95054",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=e7544b63dae902ba",
+    "description": "Design, build, and optimize a next-generation data platform for semiconductor operations, implementing a modern data lake using medallion architecture with Apache Iceberg, Snowflake, Databricks, and DBT Core, orchestrated with Airflow. Own end-to-end data pipeline solutions handling manufacturing, IoT, and yield-analysis data streams, leveraging AI engineering tools to accelerate development.",
+    "source": "Indeed"
+  },
+  {
+    "id": "10",
+    "title": "Data Engineer (Hybrid)",
+    "company": "Summit Credit Union",
+    "location": "Cottage Grove, WI 53527",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=ba2b7db585c46ae7",
+    "description": "Play a critical role in shaping and executing Summit's enterprise data strategy. Design, build, and maintain data architectures, databases, data models, and integration solutions. Requires a Bachelor's degree and 8 years of experience in data management roles, with strong technical skills in data analytics, database design, and data modeling, plus knowledge of data governance.",
+    "source": "Indeed"
+  },
+  {
+    "id": "11",
+    "title": "Sr. People Analyst",
+    "company": "Markel Service Inc.",
+    "location": "Glen Allen, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=ea4fa8b3eff4a8e1",
+    "description": "What part will you play? If you’re looking for a place where you can make a meaningful difference, you’ve found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you’ll find your fit amongst our global community of optimists and problem-solvers. We’re always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special!",
+    "source": "Indeed"
+  },
+  {
+    "id": "12",
+    "title": "Analyst - Workday Reporting & Analytics",
+    "company": "Sentara Workforce Solutions, LLC",
+    "location": "Norfolk, VA 23502",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=8a28e091d8ad9275",
+    "description": "City/State Norfolk, VA Work Shift First (Days) Overview: The ERP Reporting & Analytics Analyst role requires a creative thinker and execution-oriented individual that drives the organizational use of data through intuitive, efficient and insightful reporting and analytical solutions for Human Resources. This role is crucial in enhancing user experience, driving innovation and identifying opportunities in all spaces through capitalizing on the many uses of data in the ERP (Workday) ecosystem.",
+    "source": "Indeed"
+  },
+  {
+    "id": "13",
+    "title": "Criminal Justice Data Analyst",
+    "company": "Booz Allen Hamilton",
+    "location": "Arlington, VA 22202",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=dec00cff7c649e5a",
+    "description": "The Opportunity: As a data analyst, you love diving into data and turning it into meaningful insights. With the abundance of structured and unstructured data, you understand the importance of transforming complex data sets into useful information to solve challenges. As a data analyst at Booz Allen, you can use your skills and experience to support a mission and use data for good.",
+    "source": "Indeed"
+  },
+  {
+    "id": "14",
+    "title": "Business Data Analyst II",
+    "company": "DHL",
+    "location": "China Grove, NC 28023",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=e8d47280aa1ce7f4",
+    "description": "The Business Data Analyst II role has a national salary range of $55,000 - $90,000. For roles within California the range is $70,304 - $90,000, Washington is $80,169 - $90,000, New York is 62,354 - $90,000 and Colorado 57,500 - $90,000. DHL Supply Chain offers multiple benefits including Medical, Dental, Vision, Prescription, Discounted Stock Purchase, and a generous PTO policy. Are you ready to turn data into decisions that drive real impact in the supply chain world?",
+    "source": "Indeed"
+  },
+  {
+    "id": "15",
+    "title": "Institutional Data Analyst",
+    "company": "State of South Carolina",
+    "location": "Richland County, SC",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=3d39a333cab7555e",
+    "description": "Job Responsibilities Institutional Data Analyst Department: PROV Office of Institutional Research Assessment and Analytics (OIRAA) Advertised Salary Range: Part/Full Time: Full Time About UofSC From the Upstate to the Lowcountry, the University of South Carolina system is transforming the lives of South Carolinians through the impact of our eight institutions and 20 locations throughout the state.",
+    "source": "Indeed"
+  },
+  {
+    "id": "16",
+    "title": "Signals Data Analyst, Mid",
+    "company": "Booz Allen Hamilton",
+    "location": "Dayton, OH",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=d149ebb5a9fb68af",
+    "description": "Signals Data Analyst, Mid The Opportunity: Leverage SIGINT and non-SIGINT data sources to close discovery gaps, optimize client systems, and enhance the client’s ability to pursue essential data. Apply specific functional, working, and general industry knowledge. Develop or contribute to solutions to a variety of problems of moderate scope and complexity. Work independently with some guidance. Review or guide activities of junior employees.",
+    "source": "Indeed"
+  },
+  {
+    "id": "17",
+    "title": "Junior Business Analyst",
+    "company": "Capgemini",
+    "location": "Bridgewater, NJ",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=60759b9553236e66",
+    "description": "Job Location - Smithfield RI (Day One Onsite - Hybrid) About The Role We are looking to migrate on-prem applications to cloud through rewrite and application modernization. This request is to supplement the team with a business analyst with knowledge of RDBMS, SQL, data aggregation (Alteryx), data analysis and business acumen. Required Skills 3-5 years if working experience as business analyst Excellent written communication and documentation skills.",
+    "source": "Indeed"
+  },
+  {
+    "id": "18",
+    "title": "Data Analyst- Investments",
+    "company": "Intone Networks",
+    "location": "Charlottesville, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=96317850c8e9ee54",
+    "description": "Our client is a highly respected institutional investment organization that supports mission-driven entities through investment management, portfolio oversight, and investment operations services is seeking a Data Analyst.",
+    "source": "Indeed"
+  },
+  {
+    "id": "19",
+    "title": "Oracle OAS / BI Developer",
+    "company": "CGI Group, Inc.",
+    "location": "Arlington, VA 22201",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=f54c9cc02ac3e432",
+    "description": "Position Description: We are seeking an Oracle OAS/BI Developer with hands on experience designing, building, and maintaining reports and dashboards for Oracle E Business Suite (EBS) environments to help us support a program for the Defense Logistics Agency (DLA). The ideal candidate will translate functional and financial requirements into reliable, performant analytics using Oracle Analytics Server (OAS), OBIEE lineage, and Oracle data models.",
+    "source": "Indeed"
+  },
+  {
+    "id": "20",
+    "title": "Business Analyst",
+    "company": "Port City Logistics",
+    "location": "Port Wentworth, GA 31407",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=76779e619c512182",
+    "description": "*Job Title: Front-End BI Analyst * *Role Overview* We are looking for a skilled and adaptable Front-End BI Analyst to join our IT leadership team during an exciting period of data transformation. As a Third-Party Logistics (3PL) provider, data is the lifeblood of our operational efficiency and customer satisfaction. We are currently transitioning our primary operational and customer-facing dashboards from Power BI to Sigma Computing.",
+    "source": "Indeed"
+  },
+  {
+    "id": "21",
+    "title": "Software Engineer",
+    "company": "Texas Instruments",
+    "location": "Dallas, TX 75243",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=54ccbad108ae7bf5",
+    "description": ".component-styling-wrapper-105035 .job-details__title { color: rgbfont-family: 'Roboto-300', Arial, sans-serif; text-align: center; } @media all and (min-width: 768px) { .component-styling-wrapper-105035 .job-details__title { font-size: 36px; line-height: 1.2 } } Software Engineer .component-styling-wrapper-105038 .job-details__subtitle { color: rgbfont-family: 'Roboto', Arial, sans-serif; font-size: 16px; text-align: center; line-height: 1.5 } Dallas, TX, United States...",
+    "source": "Indeed"
+  },
+  {
+    "id": "22",
+    "title": "Custom Software Engineer 6321038",
+    "company": "Accenture",
+    "location": "Walnut Creek, CA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=6112f50c47205a48",
+    "description": "Accenture Flex offers you the flexibility of local fixed-duration project-based work powered by Accenture, a leading global professional services company. Accenture is consistently recognized on FORTUNE's 100 Best Companies to Work For and Diversity Inc's Top 50 Companies For Diversity lists. As an Accenture Flex employee, you will apply your skills and experience to help drive business transformation for leading organizations and communities.",
+    "source": "Indeed"
+  },
+  {
+    "id": "23",
+    "title": "Modeling and Simulation Software Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Wright-Patterson AFB, OH",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=af54f840471c3c14",
+    "description": "The Opportunity : As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast, agile environment. If you’re looking for the chance to not just develop sof t war e, but to help create a system that will make a difference, we need you on our team. We’re looking for a developer like you with an appetite for learning and the skills needed to develop sof t war e and systems from vision to production ready. This role is more than just coding.",
+    "source": "Indeed"
+  },
+  {
+    "id": "24",
+    "title": "Remote Sensing Software Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Dayton, OH",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=fb39165d98328d2c",
+    "description": "The Opportunity: At Booz Allen, you’ll join a team using advanced imaging, physics-based modeling, and AI / ML to solve some of the nation’s most compelling Space Domain Awareness ( SDA ) and remote sensing challenges. You’ll contribute to the design and development of high-fidelity processing pipelines that transform raw sensor data into insight.",
+    "source": "Indeed"
+  },
+  {
+    "id": "25",
+    "title": "Software Signals Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "El Segundo, CA 90245",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=300c5bfdaea22513",
+    "description": "The Opportunity: Spe cia lize in tools, te chn iques, systems, and procedures for developing, deploying, or analyzing wired or wireless transmission of signaling data. Apply specific functional knowledge, including working or general industry knowledge. Develop or contribute to solutions to a variety of problems of moderate scope and complexity. Work independently with some guidance and review or guide activities of more junior employees. Join us. The world can't wait.",
+    "source": "Indeed"
+  },
+  {
+    "id": "26",
+    "title": "C++ Software Engineer, Junior",
+    "company": "Booz Allen Hamilton",
+    "location": "Beavercreek, OH 45431",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=a5192eea4de5dd87",
+    "description": "The Opportunity: Develop solution architecture ( SA ) and resolve complex issues in a variety of projects through the implementation of requirements analysis, expertise support, and project supervision. Apply basic principles, theories, and concepts, including limited industry knowledge. Solve routine problems of limited scope and complexity, and refer more complex issues to higher levels. Work under direct supervision.",
+    "source": "Indeed"
+  },
+  {
+    "id": "27",
+    "title": "Software Developer – Data Processing Team",
+    "company": "Northrop Grumman",
+    "location": "McLean, VA 22102",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=fc1aa40837b60d49",
+    "description": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Top Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come.",
+    "source": "Indeed"
+  },
+  {
+    "id": "28",
+    "title": "Software Engineer, Junior",
+    "company": "Booz Allen Hamilton",
+    "location": "Albuquerque, NM 87110",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=8b4e9e275d5037e4",
+    "description": "The Opportunity: As a software engineer, you know that good software is more than just a nice-looking interface + data. You need the right combination of clean code, APIs, analytics, and infrastructure to help develop a user-focused solution. We’re looking for a software engineer like you to develop efficient and effective software, from vision to production-ready system, in an exciting, agile environment.",
+    "source": "Indeed"
+  },
+  {
+    "id": "29",
+    "title": "Software Engineers (Level 2 or 3)",
+    "company": "Northrop Grumman",
+    "location": "McLean, VA 22102",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=44269f3a84305043",
+    "description": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Top Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come.",
+    "source": "Indeed"
+  },
+  {
+    "id": "30",
+    "title": "DevSecOps Engineer (Secret Clearance)",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=0d8bc6e007d3a0f7",
+    "description": "Join Deloitte's Government & Public Services practice as a DevSecOps-focused Senior Consultant, Enterprise Security. In this role, you will help clients build, secure, and modernize software delivery environments by embedding security across the software development lifecycle. You will work across cloud, application, infrastructure, and platform teams to automate security controls, improve compliance, and strengthen resiliency in mission-driven environments.",
+    "source": "Indeed"
+  },
+  {
+    "id": "31",
+    "title": "Robotics Automation Data Scientist",
+    "company": "Home Depot / THD",
+    "location": "Boston, MA 02125",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=e9bdd9e09719d2f8",
+    "description": "Data Scientist – Business Intelligence & Operational Optimization Position Summary The Data Scientist – Business Intelligence & Operational Optimization is responsible for transforming operational data into actionable insights that improve the performance, efficiency, and scalability of robotic warehouse systems.",
+    "source": "Indeed"
+  },
+  {
+    "id": "32",
+    "title": "Data Scientist - National Federal Tax Services",
+    "company": "Deloitte",
+    "location": "Atlanta, GA 30309",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=c837980bd637052e",
+    "description": "Our Global Investment and Innovation Incentives (\"Gi3\") practice provides our clients a broad range of government credits and incentives (\"C&I\") services across more than 150 countries and regions worldwide. With over 1,000 practitioners, the Gi3 tax team is a national team of specialists dedicated to providing comprehensive tax C&I services.",
+    "source": "Indeed"
+  },
+  {
+    "id": "33",
+    "title": "Healthcare Provider AI Decision Science Consultant",
+    "company": "Accenture",
+    "location": "Bentonville, AR 72712",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=e2be707d0231f4f8",
+    "description": "Accenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client-focused, AI-enabled, great place to work in the world.",
+    "source": "Indeed"
+  },
+  {
+    "id": "34",
+    "title": "Healthcare Payer AI Decision Science Consultant",
+    "company": "Accenture",
+    "location": "Des Moines, IA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=9bb3112cc4da90e0",
+    "description": "Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth, and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 774,000 people serving clients in more than 120 countries.",
+    "source": "Indeed"
+  },
+  {
+    "id": "35",
+    "title": "AIT - AI Data Scientist Senior Associate",
+    "company": "PwC",
+    "location": "Tampa, FL",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=07f73c20a4d2bb37",
+    "description": "Job ID 738322WD Category Data and Analytics Engineering Time Type Full time Specialty/Competency Data Science Level Senior Associate Travel Requirements Up to 20% Locations Tampa, Boston, New York The Opportunity As an AI Data Scientist Senior Associate, you will leverage advanced analytics and statistical techniques to transform raw data into actionable insights, enabling informed decision-making and driving business growth.",
+    "source": "Indeed"
+  },
+  {
+    "id": "36",
+    "title": "Public Notice - Data Scientist (Direct Hire)",
+    "company": "US Headquarters, NASA",
+    "location": "Washington, DC 20546",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=678a6bcef6b4faa4",
+    "description": "Summary Positions advertised are in various organizations and locations. NASA may fill positions in any of the following grade levels listed in this announcement (GS-13/14/15 levels). Learn more about this agency This job is open to The public U.S. Citizens, Nationals or those who owe allegiance to the U.S. Duties Duties described below are at the highest grade advertised.",
+    "source": "Indeed"
+  },
+  {
+    "id": "37",
+    "title": "Research Data Scientist",
+    "company": "US Veterans Health Administration",
+    "location": "Salt Lake City, UT 84113",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=b306a9697b856481",
+    "description": "Summary Please note, there is no pay associated with this position. This position serves as a Without Compensation Research Data Scientist within the Office of Research and Development (ORD). The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value-driven care by providing Veterans the highest quality care at the lowest financial burden.",
+    "source": "Indeed"
+  },
+  {
+    "id": "38",
+    "title": "AIT - AI Data Scientist Manager",
+    "company": "PRICE WATERHOUSE COOPERS",
+    "location": "New York, NY",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=9f5d42b13c262dfb",
+    "description": "The Opportunity As an AI Data Scientist Manager, you will play a pivotal role within our Data and Analytics Engineering practice, focusing on transforming raw data into actionable insights that drive business growth. You will leverage advanced analytics and statistical techniques to extract insights from large datasets, enabling informed decision-making and solving complex business problems.",
+    "source": "Indeed"
+  },
+  {
+    "id": "39",
+    "title": "Data Analyst Pharmacy Claims",
+    "company": "eNGINE",
+    "location": "Pittsburgh, PA 15229",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=5b559f025a2005d4",
+    "description": "*Data Analyst – Pharmacy Claims* *Location: Pittsburgh, PA (Hybrid)* *About eNGINE* eNGINE builds Technical Teams. We are a Solutions and Placement firm shaped by decades of interaction with Technical professionals. Our inspiration is continuous learning and engagement with the markets we serve, the talent we represent, and the teams we build.",
+    "source": "Indeed"
+  },
+  {
+    "id": "40",
+    "title": "GenAI Engineer",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=0775846fae098b3b",
+    "description": "Our Deloitte AI & Engineering team to transform technology platforms, drive innovation, and help make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and reengineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.",
+    "source": "Indeed"
+  },
+  {
+    "id": "41",
+    "title": "Agentic AI, AI & Data Science Engineer",
+    "company": "Deloitte",
+    "location": "San Diego, CA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=7049036a1c045b6f",
+    "description": "Join our AI & Engineering team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and re-engineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.",
+    "source": "Indeed"
+  },
+  {
+    "id": "42",
+    "title": "^AI Implementation Engineer Lead 6362071",
+    "company": "Accenture",
+    "location": "Walnut Creek, CA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=afcf09f492554620",
+    "description": "Accenture Flex offers you the flexibility of local fixed-duration project-based work powered by Accenture, a leading global professional services company. Accenture is consistently recognized on FORTUNE's 100 Best Companies to Work For and Diversity Inc's Top 50 Companies For Diversity lists. As an Accenture Flex employee, you will apply your skills and experience to help drive business transformation for leading organizations and communities.",
+    "source": "Indeed"
+  },
+  {
+    "id": "43",
+    "title": "Applied AI ML Lead, Chief Data & Analytics Office",
+    "company": "JPMorganChase",
+    "location": "Jersey City, NJ 07310",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=49d4abe435932c5f",
+    "description": "JOB DESCRIPTION Join a world-class data science team at JPMorgan Chase and help shape the future of our Chief Administrative Office. As a leader in applied AI and machine learning, you'll have the opportunity to work on high-impact projects that influence the way we do business across multiple domains. Collaborate with talented colleagues, leverage cutting-edge technologies, and see your work make a tangible difference.",
+    "source": "Indeed"
+  },
+  {
+    "id": "44",
+    "title": "Applied AI Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Fort Belvoir, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=0a3613848757c85a",
+    "description": "The Opportunity: As an experienced engineer, you know that artificial intelligence is critical to understanding and processing massive datasets. Your ability to conduct statistical analyses on business processes using ML techniques makes you an integral part of delivering a customer-focused solution. We need your technical knowledge and desire to problem-solve to support an enterprise-wide application and data capability.",
+    "source": "Indeed"
+  },
+  {
+    "id": "45",
+    "title": "US Tech - AI Engineering Senior Associate",
+    "company": "PwC",
+    "location": "Tampa, FL",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=3ebb68cbd3b93d4a",
+    "description": "Job ID 698808WD Category Data and Analytics Engineering Time Type Full time Specialty/Competency Data Science Level Senior Associate Travel Requirements Up to 20% Locations Tampa, Raleigh, Charlotte, Chicago, Cincinnati, Cleveland, Columbia, Columbus, Dallas, Richmond, Baltimore, Rochester, Rosemont, Boston, Sacramento, St Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Silicon Valley, Seattle, Spartanburg, Albany, Stamford, Toledo, Atlanta, Tulsa, Austin, Washington D.C., Denver,...",
+    "source": "Indeed"
+  },
+  {
+    "id": "46",
+    "title": "AI Transformation & Solutions Lead",
+    "company": "Accenture",
+    "location": "Miami, FL 33126",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=708540c8b09e0db9",
+    "description": "We Are: Accenture is a global leader in helping organizations transform their businesses and operations using technology, data, and innovation. Through LearnVantage, we partner with enterprise clients to drive workforce transformation by combining learning, AI, and advanced digital capabilities.",
+    "source": "Indeed"
+  },
+  {
+    "id": "47",
+    "title": "AI/ML Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Arlington, VA 22202",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=4a61d8da3b8a7a02",
+    "description": "AI/ML Engineer The Opportunity: As an machine learning engineer, you understand good software is more than just a good user experience. To compete in today’s technical landscape, mission-oriented machine learning solutions must be architected, designed, and built to handle fast-moving data, to seamlessly scale with infrastructure based on system usage, and to expand based on evolving mission requirements.",
+    "source": "Indeed"
+  },
+  {
+    "id": "48",
+    "title": "Agentic AI Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Annapolis Junction, MD",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=7b4b88a37db66418",
+    "description": "Agentic AI Engineer The Opportunity: You know that machine learning is critical to understanding and processing massive datasets. Your ability to conduct statistical analyses on business processes using ML techniques makes you an integral part of delivering a customer-focused solution. We need your technical knowledge and desire to problem-solve to support a high-visibility Booz Allen product designed to support network analysts.",
+    "source": "Indeed"
+  },
+  {
+    "id": "49",
+    "title": "Enterprise Data Lead Analyst",
+    "company": "First Interstate Bank",
+    "location": "Billings, MT",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=47b59e6faa96b2d0",
+    "description": "**If you are a current FIB employee, please apply through the Career Worklet in the Employee Portal. This position can be located in Billings, MT; Bend, OR; Boise, ID; Omaha, NE; or Sioux Falls, SD. What’s Important to You We know your career is just one aspect of a meaningful, complex, and demanding life. That’s why we designed our compensation and benefits package to provide employees and their families with as much choice as possible.",
+    "source": "Indeed"
+  },
+  {
+    "id": "50",
+    "title": "Power BI Analyst - System Maintenance & Enhancements",
+    "company": "Accenture",
+    "location": "Austin, TX",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=a8bff7f330158485",
+    "description": "We are: The Advanced Technology Centers (ATCs) is the engine for reinvention in our clients’ transformation journey. Powered by more than 255,000* people across 24 countries, ATCs will provide our clients seamless access to industry insights and innovative technology solutions. Stronger together! The Advanced Technology Centers (ATCs) make tremendous impact in solving our clients’ business problems leveraging Innovation, Intelligence, Industry insights, new IT and new technology skills.",
+    "source": "Indeed"
+  },
+  {
+    "id": "51",
+    "title": "Senior Data Analyst (AR)",
+    "company": "Panda Restaurant Group",
+    "location": "Rosemead, CA 91770",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=889be47e3ea2d0c8",
+    "description": "Summary of Job Description: The Senior Data Analyst develops and maintains HR metrics, reports, and analytics. This position is also responsible for HR system administration, data integrity, process efficiency, and HR reporting. The Senior Data Analyst works with the HR Data, Field HR & Associate Relations teams to develop periodic and quarterly reporting, metrics and measurements, as well as ad-hoc reporting as needed.",
+    "source": "Indeed"
+  },
+  {
+    "id": "52",
+    "title": "Clinical Data Analyst",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=dce7a57d29578d54",
+    "description": "Our Deloitte AI & Engineering team to transform technology platforms, drive innovation, and help make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and reengineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.",
+    "source": "Indeed"
+  },
+  {
+    "id": "53",
+    "title": "BI Reporting Analyst, TPO Data & Insights",
+    "company": "Marriott International, Inc",
+    "location": "Bethesda, MD 20814",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=7859d81385591ea4",
+    "description": "Additional InformationRemote Pay Range: $87,300-$136,000 annuallyBethesda, MD Pay Range: $96,000-$150,000 annually Job Number26074372 Job CategoryInformation Technology Location7750 Wisconsin Ave, Bethesda, Maryland, United States, 20814 ScheduleFull Time Located Remotely?Y Position Type Management Bonus Eligible: Y Expiration Date: 07/16/2026 JOB SUMMARY The BI Reporting Analyst will be responsible for developing and fulfilling reporting needs for Technology Strategic Enablement’s (TSE)...",
+    "source": "Indeed"
+  },
+  {
+    "id": "54",
+    "title": "Senior Analyst, Risk Management Data Analytics",
+    "company": "Marriott International, Inc",
+    "location": "Bethesda, MD 20814",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=7f7bb1db2cb3a212",
+    "description": "Additional InformationBethesda, MD Pay Range: $84,000-$147,500 annuallyRemote Pay Range: $76,000-$138,000 annually Job Number26084720 Job CategoryFinance & Accounting Location7750 Wisconsin Ave, Bethesda, Maryland, United States, 20814 ScheduleFull Time Located Remotely?Y Position Type Management Bonus Eligible: Y Expiration Date: 08/06/2026 JOB SUMMARY The Senior Analyst position supports the Insurance team and Risk Management department by transforming large, complex data sets into meaningful...",
+    "source": "Indeed"
+  },
+  {
+    "id": "55",
+    "title": "Data Analyst",
+    "company": "Biogensys",
+    "location": "Tallahassee, FL 32306",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=67f0b4f4fd6c3cfc",
+    "description": "We are hiring a *Data Analyst with data analytics experience *for one of our clients in *Tallahassee, FL.* *Job Description:* * Launch and maintain the Flex Website as follows: * Within 30 calendar days of issuance of the PO, launch the Flex Website.",
+    "source": "Indeed"
+  },
+  {
+    "id": "56",
+    "title": "Business Intelligence & Logistics Analyst",
+    "company": "Booz Allen Hamilton",
+    "location": "Warner Robins, GA 31088",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=9fdc7f14c6e654bb",
+    "description": "Business Intelligence & Logistics Analyst The Opportunity: To transform effectively, organizations need help looking at their operation from the outside. Our clients need a management analyst who will capture the complexities of depot maintenance and logistics systems and provide tangible outputs that improve business process, amplify mission success, and automate methodologies.",
+    "source": "Indeed"
+  },
+  {
+    "id": "57",
+    "title": "Project - Data Analytics Engineer III - TS/SCI w/ Poly - Washington, D.C.",
+    "company": "Deloitte",
+    "location": "Arlington, VA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=c72ad642e8c133cb",
+    "description": "Our Deloitte Human Capital team helps organizations create value through people performance. We work with clients to reimagine work, the workforce, and the workplace across the enterprise and to transform their HR functions with AI and emerging technology. With the rapid pace of change in today's world, you will help clients answer questions like: How do I access, develop, and motivate my workforce? What should my AI strategy be for the HR function?",
+    "source": "Indeed"
+  },
+  {
+    "id": "58",
+    "title": "Senior Data Engineer - Analytics",
+    "company": "Everforth",
+    "location": "Bristol, PA 19007",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=0bf8f17d17552e7a",
+    "description": "Senior Data Engineer - Analytics Senior Data Engineer, Analytics Location: 100% Remote Position Overview We are seeking an experienced Analytics Engineer to join our data team and build reliable, scalable analytics infrastructure that turns data into actionable insights. The role is focused on designing and implementing data models, transformation pipelines, and APIs that power dashboards, ML features, and downstream systems.",
+    "source": "Indeed"
+  },
+  {
+    "id": "59",
+    "title": "Call Recording Speech Analytics Engineer",
+    "company": "Experis",
+    "location": "Pennington, NJ 08534",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=8eb07fa5768351a2",
+    "description": "Our client, a leading organization in the financial services industry, is seeking a Call Recording Speech Analytics Engineer to join their dynamic team. As a Call Recording Speech Analytics Engineer, you will be an integral part of the Technology Support department supporting call recording, speech analytics, and workforce management solutions.",
+    "source": "Indeed"
+  },
+  {
+    "id": "60",
+    "title": "Data Engineer – Corporate Technology Data Engineering & Analytics",
+    "company": "MassMutual",
+    "location": "Boston, MA",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=4f5097e4224f5126",
+    "description": "Overview A career with us means you’ll work alongside exceptional people and be empowered to reach your professional and personal goals. Our employees are at the foundation of what enables MassMutual to deliver on our purpose to help people secure their futures and protect the ones they love. We embrace the idea that we all are stronger and better through our support for one another. We strive to create a culture where employees feel valued and are celebrated for who they are.",
+    "source": "Indeed"
+  },
+  {
+    "id": "61",
+    "title": "BI Analytics Engineer",
+    "company": "Uline",
+    "location": "Pleasant Prairie, WI 53158",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=1c9c57dfb045e036",
+    "description": "BI Analytics Engineer Corporate Headquarters 12575 Uline Drive, Pleasant Prairie, WI 53158 Build what's next. Power what’s now. As a BI Analytics Engineer at Uline, you’ll turn data into insights that drive decisions across the business. Partner with teams across the company to design dashboards, shape reporting and build scalable analytics solutions that support our custom enterprise systems. Why IT at Uline?",
+    "source": "Indeed"
+  },
+  {
+    "id": "62",
+    "title": "Data Scientist",
+    "company": "Hirose Electric USA",
+    "location": "Downers Grove, IL 60515",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=e53a0753cdab1deb",
+    "description": "Description: ABOUT HIROSE This is an exciting opportunity to join Hirose, an organization that for almost a hundred years has been pioneering thousands of new connectors and defining industry standards in consumer electronics, industrial automation, high speed backbone computer infrastructure, automotive, and medical applications. A compact company of smart people, Hirose uses the talents of every employee to bring innovation to put big technology in small packages.",
+    "source": "Indeed"
+  },
+  {
+    "id": "63",
+    "title": "Palantir Analytics and Insights Engineer III",
+    "company": "Deloitte",
+    "location": "Huntsville, AL 35805",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=5555ffa834d8bc01",
+    "description": "Our Deloitte AI & Engineering team to transform technology platforms, drive innovation, and help make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and reengineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.",
+    "source": "Indeed"
+  },
+  {
+    "id": "64",
+    "title": "Senior Business Analyst (Fully Remote: Must Work PST Hours)",
+    "company": "Motus Recruiting and Staffing",
+    "location": "Dallas, TX 75201",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=3c9028d19d8d7722",
+    "description": "_*Senior Business Analyst (Remote)*_ Our client, a leading health care company dedicated to revolutionizing the industry, is looking for a *Senior Business Analyst* for their Portland, Oregon location. This Business Analyst applies analytical skills, project management, financial analysis and subject matter expertise in medium-sized projects to identify opportunities for improvement, design solutions, and manage improvement efforts across IT Delivery Operations to a successful conclusion.",
+    "source": "Indeed"
+  },
+  {
+    "id": "65",
+    "title": "Senior Data Analyst",
+    "company": "Dell Medical School",
+    "location": "Austin, TX 78701",
+    "applyUrl": "https://www.indeed.com/viewjob?jk=b6cfec69e387e69b",
+    "description": "General Notes The Department of Psychiatry and Behavioral Sciences at the Dell Medical School is seeking a Senior Data Analyst. This is a fixed-term, benefits-eligible position with a current end date of August 31, 2027, based on available funding. Purpose The Senior Data Analyst is a senior-level individual contributor position responsible for leading complex data analytics initiatives that drive strategic decision-making across clinical, operational, and financial domains.",
+    "source": "Indeed"
+  },
+  {
+    "id": "66",
+    "title": "Data Engineer",
+    "company": "Regard",
+    "location": "Los Angeles, CA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-regard-4430742230?position=60&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=9ZFYFRoFMlqF%2B3We%2FJPoqQ%3D%3D",
+    "description": "As a Data Engineer at Regard, you will help build and maintain the data pipelines and infrastructure that turn raw data into the metrics and insights that drive our product decisions and research. We run an engineering-first stack that prioritizes transparent, code-driven systems over black-box services, and you will contribute to the continued growth and reliability of our data platform.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "67",
+    "title": "Data Engineer",
+    "company": "Westinghouse Electric Company",
+    "location": "Cranberry Township, PA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-westinghouse-electric-company-4428758614?position=57&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=xyuwGfr%2BbZLGBuPE60oUSw%3D%3D",
+    "description": "Are you interested in being part of an innovative team that supports Westinghouse’s mission to provide clean energy solutions? At Westinghouse, we recognize that our employees are our most valuable asset and we seek to identify, attract and recruit the most qualified talent while recognizing and encouraging the value of diversity in the global workplace.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "68",
+    "title": "Data Engineer 2",
+    "company": "HDR",
+    "location": "Omaha, NE",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-2-at-hdr-4418836402?position=58&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=ecF6ZNcRS5iDCeCr3lSr7w%3D%3D",
+    "description": "At HDR, our employee-owners are fully engaged in creating a welcoming environment where each of us is valued and respected, a place where everyone is empowered to bring their authentic selves and novel ideas to work every day. As we foster a culture of inclusion throughout our company and within our communities, we constantly ask ourselves: What is our impact on the world?",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "69",
+    "title": "Data Engineer",
+    "company": "Frida",
+    "location": "Miami, FL",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-frida-4436228002?position=59&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=LhQuUERN3epUUQzmOsNJXA%3D%3D",
+    "description": "Description Who We Are Parenting isn’t picture-perfect. It’s messy, hilarious, exhausting, and life-changing — sometimes all before noon. That’s where we come in. Founded in 2014 by our CEO Chelsea Hirschhorn, Frida was built to make the raw reality of parenting a little easier to navigate (and a lot less overwhelming).",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "70",
+    "title": "Data Engineer",
+    "company": "Ranger Technical Resources",
+    "location": "Broward County, FL",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-ranger-technical-resources-4425997438?position=53&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=XU0e%2F5FjFjbJoDjCITFWvw%3D%3D",
+    "description": "Data Engineer #2640 Position Summary: Our partner is a technology company building a scalable platform for cities and organizations to manage parking, payments, permits, and mobility operations. Their platform is driven by real-time data an d integrations across multiple systems. They are expanding their team with a Data Engineer to help modernize a slow, unstructured data environment.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "71",
+    "title": "Data Engineer",
+    "company": "Addison Group",
+    "location": "Edmond, OK",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-addison-group-4438526800?position=55&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=X11QlZMCZaD41WNIplafhw%3D%3D",
+    "description": "Direct Hire * Must be authorized to work in the United States now and in the future without assistance* Pay: $125,000 - $150,000 base salary + annual discretionary bonus Edmond, OK - Hybrid schedule with flexibility. Candidates must be local to the Edmond/Oklahoma City area and available to work onsite as needed for collaboration and project work. Benefits: This position is eligible for medical, dental, vision, and 401(k).",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "72",
+    "title": "Data Engineer",
+    "company": "Gigascale Capital",
+    "location": "San Bruno, CA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-gigascale-capital-4438928341?position=54&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=O%2FFm5OJ3tEY6x5tnkYLA6w%3D%3D",
+    "description": "Mill is a waste prevention technology company reimagining what it means to eliminate waste, starting with food. We build smart systems and infrastructure for homes, businesses, and municipalities that transform food scraps from landfill-bound waste into valuable resources, including chicken feed.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "73",
+    "title": "Data Engineer",
+    "company": "Elve, Inc.",
+    "location": "Davis, CA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-elve-inc-4381914416?position=52&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=dKninS64Nn4AXgPzkK%2FyMg%3D%3D",
+    "description": "Who is Elve? Elve, Inc is a deep-tech startup in Davis, CA, specializing in the design and manufacturing of high-efficiency lightweight millimeter-wave and near-THz RF power amplifiers. Our groundbreaking technology enables 100x faster wireless internet access in urban settings and remote locations, revolutionizing the future of wireless connectivity well beyond 5G. We are looking for engineers to join our team and contribute to the advancement of our technology.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "74",
+    "title": "Data Engineer",
+    "company": "Guac",
+    "location": "New York, NY",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-guac-4416666134?position=51&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=0gmwUpZl8bBblvDkN%2BJTkQ%3D%3D",
+    "description": "At Guac, we're solving grocery food waste with AI. We forecast exactly how much of each product will sell, helping grocery retailers order and produce the perfect amount of inventory — and we're building AI-native tools that put those forecasts directly into the hands of store operators and buyers. The grocery industry is enormous (it accounts for 4% of GDP) — and grocery food waste is a huge cost to grocers' bottom lines, but also to our planet.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "75",
+    "title": "Data Engineer",
+    "company": "Rysun Labs",
+    "location": "Houston, TX",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-at-rysun-labs-4425386520?position=49&pageNum=0&refId=3Ap30SR2NTHuDGLsg1YVvg%3D%3D&trackingId=JhZAhx%2F8mihKqFlqA4vmuA%3D%3D",
+    "description": "Benefits: - Dental insurance - Health insurance - Paid time off - Training &amp; development - Vision insurance Rysun Labs (formerly KCS – Krish Compusoft Services) is an AI, Data &amp; Digital innovation partner of choice for enterprises. Rysun guides and accelerates the AI &amp; Data strategy and Digital Transformation programs for Fortune 2000 enterprises and product startups to shape remarkable customer experiences and intelligent operations.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "76",
+    "title": "AI Data Scientist",
+    "company": "General Dynamics Information Technology",
+    "location": "Bossier City, LA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-general-dynamics-information-technology-4432957832?position=58&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=aa218%2FqctT%2F9pxBzAJ%2FayQ%3D%3D",
+    "description": "Job Description: Type of Requisition: Pipeline Clearance Level Must Currently Possess: None Clearance Level Must Be Able To Obtain: Top Secret Public Trust/Other Required: None Job Family: Data Science and Data Engineering Skills: Job Qualifications: AI Systems, Big Data, Datasets Certifications: None Experience: 2 + years of related experience US Citizenship Required: Yes Job Description: Own your opportunity to turn data into measurable outcomes for our customers’ most complex challenges.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "77",
+    "title": "Machine Learning Engineer",
+    "company": "TwinThread",
+    "location": "Charlottesville, VA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-twinthread-4411968302?position=60&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=DioA%2BjdzbikXx6ROCrAcMg%3D%3D",
+    "description": "MACHINE LEARNING ENGINEER Team: Technology | Location: Open Who We Are We are a team of industrial software technology veterans and up-and-coming talent who are aligned on one mission: solving really hard data science and machine learning challenges for industrial organizations. We have created a self-provisioning, rapid results predictive operations platform delivering immediate value to Fortune 500 companies.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "78",
+    "title": "Data Scientist",
+    "company": "Nissan Motor Corporation",
+    "location": "Franklin, TN",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-scientist-at-nissan-motor-corporation-4424174176?position=57&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=25IPmZuccsNu6YvBVqkCfg%3D%3D",
+    "description": "Location: Franklin, TN Job Schedule: Hybrid 4 days week Onsite Education Requirement: Bachelor's Degree Sponsorship: No Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation We're currently looking for a Data Scientist to join our team at our Nissan Americas HQ in Franklin, TN.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "79",
+    "title": "Hawaii - Data Scientist (Active Secret Clearance)",
+    "company": "Striveworks",
+    "location": "Schofield Barracks, HI",
+    "applyUrl": "https://www.linkedin.com/jobs/view/hawaii-data-scientist-active-secret-clearance-at-striveworks-4432853044?position=59&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=NgEXJmMsln2Pw5cP4jbXfw%3D%3D",
+    "description": "Build, Deploy, and Maintain AI for an Unpredictable World Striveworks helps organizations harness the power of artificial intelligence to solve real-world national security and business challenges by serving as the command center between data, models, and business outcomes. Founded by data scientists and engineers, Striveworks set out to make the journey from deployment to ongoing optimization simple and effective.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "80",
+    "title": "Data Scientist",
+    "company": "RELX",
+    "location": "Home, MN",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-scientist-at-relx-4415946659?position=56&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=Z%2FW4R3diV6wErzaDrNwNOg%3D%3D",
+    "description": "About The Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Business Services vertical, we offer a multitude of solutions focused on helping businesses of all sizes drive higher revenue growth, maximize operational efficiencies, and improve customer experience.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "81",
+    "title": "AI/ML Engineer / Data Scientist",
+    "company": "American Operations Corporation",
+    "location": "Montgomery, AL",
+    "applyUrl": "https://www.linkedin.com/jobs/view/ai-ml-engineer-data-scientist-at-american-operations-corporation-4423374840?position=55&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=7en0k64uOFr5U8n%2FZH990Q%3D%3D",
+    "description": "Supports AI/ML-enabled analytics, predictive maintenance analysis, anomaly detection, operational trend analysis, and data-driven modernization initiatives across the BMx FoS. This role evaluates and develops AI/ML use cases aligned to Government priorities while ensuring all AI/ML activities remain operationally safe, technically supportable, and compliant with Government governance requirements.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "82",
+    "title": "(USA) Staff, Data Scientist",
+    "company": "Walmart",
+    "location": "Bentonville, AR",
+    "applyUrl": "https://www.linkedin.com/jobs/view/usa-staff-data-scientist-at-walmart-4402832090?position=54&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=ekemJZWDNZEaZLZHqnVINA%3D%3D",
+    "description": "Position Summary... What you'll do...Role summary: The (USA) Staff, Data Scientist plays a critical role in leveraging advanced analytics and machine learning to deliver actionable business insights. This position involves identifying and validating data sources, developing predictive models, and deploying scalable solutions that align with strategic objectives.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "83",
+    "title": "Data Scientist",
+    "company": "Brooksource",
+    "location": "Birmingham, AL",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-scientist-at-brooksource-4433285416?position=52&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=bpv4CIuUJ%2F7o8Xm3DVznoQ%3D%3D",
+    "description": "Data Scientist Birmingham, AL (Onsite) We’re looking for a hands-on Data Scientist (Databricks-focused) to help modernize how asset + equipment data is used across nuclear operations. This is a builder role — you’ll work directly with engineers and AI developers to turn messy operational data into real, working solutions fast (not just dashboards).",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "84",
+    "title": "Data Scientist - TrainingPeaks",
+    "company": "TrainingPeaks",
+    "location": "Louisville, CO",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-scientist-trainingpeaks-at-trainingpeaks-4375477522?position=53&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=KwzrXxTeNE9R338B5mx7Fg%3D%3D",
+    "description": "Description Company Information Join the Team Powering the World's Best Endurance Athletes At TrainingPeaks, we believe that behind every great athlete is a great coach and the right technology to help them reach their potential. Our platform is trusted by Tour de France winners, Olympic gold medalists, and everyday endurance athletes to plan, track, and analyze their training.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "85",
+    "title": "Data Scientist",
+    "company": "ATI",
+    "location": "Cudahy, WI",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-scientist-at-ati-4395733905?position=50&pageNum=0&refId=MwsdTcEJj81xY5G8yVbtOw%3D%3D&trackingId=zBINjrKn0iAhE8SFaokR6g%3D%3D",
+    "description": "Proven to Perform. From the edges of space to the bottoms of ocean, our materials are proven to perform -- and so is our team. We're hiring high performers as proven as our products. Join us. ATI is seeking to hire a Data Scientist to support business unit-wide data analytics initiatives. This position will be based in Cudahy, WI.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "86",
+    "title": "Senior Analytics Engineer",
+    "company": "MX",
+    "location": "Austin, TX",
+    "applyUrl": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-mx-4429459308?position=57&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=i91Xls8Gb6e%2F88XbxBxiMA%3D%3D",
+    "description": "MX is a fintech company on a mission to empower the world to be financially strong. We build technology that helps banks, credit unions, and fintechs deliver smarter, more intuitive financial experiences to millions of people. Like many startups, we’ve navigated real growth challenges — and we’ve come out stronger on the other side. Today, MX is in a phase of renewed momentum and scale, with a solid foundation and a clear vision for what’s next.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "87",
+    "title": "Analytics Engineer",
+    "company": "Loop",
+    "location": "Chicago, IL",
+    "applyUrl": "https://www.linkedin.com/jobs/view/analytics-engineer-at-loop-4434035491?position=56&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=JxmM3fQuHRhBTmu4Soyg6g%3D%3D",
+    "description": "About Loop Loop is industrializing services through AI, starting with one of the world's most complex industries: the global supply chain. We're an AI-native company built to solve the systemic data problem that's held logistics back for decades. Our Logistics Data Platform turns fragmented, unstructured data into a trusted foundation that fuels automation, financial clarity, and decision intelligence at scale.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "88",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "location": "Seattle, WA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/data-engineer-product-analytics-at-meta-4427314650?position=58&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=MlGjPXAm6F1Svv81G2JfUg%3D%3D",
+    "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads).",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "89",
+    "title": "Senior Analytics Engineer",
+    "company": "Alloy",
+    "location": "New York, NY",
+    "applyUrl": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-alloy-4437867444?position=53&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=dSmwqwwyxM4PdY2alpsEjQ%3D%3D",
+    "description": "Alloy is where you belong! Alloy helps solve the identity risk problem for companies that offer financial products by enabling them to outpace fraud and confidently serve more people around the world. Over 800 of the world’s largest financial institutions and fintechs turn to Alloy to take control of fraud, credit, and compliance risk, and grow with the clearest picture of their customers.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "90",
+    "title": "Analytics Engineer",
+    "company": "Rogo",
+    "location": "New York, NY",
+    "applyUrl": "https://www.linkedin.com/jobs/view/analytics-engineer-at-rogo-4433506365?position=59&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=%2FmXZZ8hPQsGIGA9NCsqd5g%3D%3D",
+    "description": "Why Rogo Our mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them. This is a unique opportunity to join a generational company driving transformation in one of the most important industries in the world.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "91",
+    "title": "Analytics Engineer",
+    "company": "Coinbase",
+    "location": "San Francisco, CA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/analytics-engineer-at-coinbase-4432851493?position=52&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=q%2BiOP8gdEZQt9tQFv%2B2t8Q%3D%3D",
+    "description": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "92",
+    "title": "Senior Data Engineer",
+    "company": "Roku",
+    "location": "San Jose, CA",
+    "applyUrl": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-roku-4436759122?position=55&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=6NwowGb6ta90u3dIaDMK3w%3D%3D",
+    "description": "Teamwork makes the stream work. Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem.",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "93",
+    "title": "Analytics / Data Engineer",
+    "company": "Prop Firm Match",
+    "location": "United States",
+    "applyUrl": "https://www.linkedin.com/jobs/view/analytics-data-engineer-at-prop-firm-match-4425694360?position=49&pageNum=0&refId=FSlaDUJh58D9pjAR%2FbVANg%3D%3D&trackingId=LX9A1xGQ%2BWMK0OUBG%2FwCvg%3D%3D",
+    "description": "Prop Firm Match Global FZCO is a leading platform for discovering, comparing, and selecting top proprietary trading firms. We provide traders with tools and features to easily compare challenge details, read verified reviews, see accurate payout data, and much more. We're a fast-moving, fully remote team with members from all around the world caring deeply about the quality of what we build. Our culture values ownership, clear communication, and practical impact over fluff.",
+    "source": "LinkedIn"
+  }
+]

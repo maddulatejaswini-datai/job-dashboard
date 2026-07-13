@@ -21,7 +21,14 @@ export default function JobCard({
           {job.title}
         </h2>
         <p className="mt-1 text-sm text-[#6B5F4F]">{job.company}</p>
-        <p className="mt-0.5 text-sm text-[#9C8B78]">{job.location}</p>
+        <p className="mt-0.5 text-sm text-[#9C8B78]">
+          {job.location}
+          {job.source && (
+            <span className="ml-2 rounded-full bg-[#F1E9DB] px-2 py-0.5 text-[11px] font-medium text-[#9C8B78]">
+              via {job.source}
+            </span>
+          )}
+        </p>
         {reason && <p className="mt-2 text-sm italic text-[#8A7A68]">{reason}</p>}
 
         {hasResume ? (

@@ -102,7 +102,7 @@ async function handleScoreRequest(request: NextRequest) {
   try {
     const response = await client.messages.parse({
       model: "claude-opus-4-8",
-      max_tokens: 4096,
+      max_tokens: 10000,
       output_config: {
         format: zodOutputFormat(ScoreResponseSchema),
         effort: "medium",

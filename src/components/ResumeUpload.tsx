@@ -7,8 +7,10 @@ type Mode = "upload" | "paste";
 
 export default function ResumeUpload({
   onScored,
+  jobCount,
 }: {
   onScored: (scores: ScoreResult[], resumeLabel: string, resumeText: string) => void;
+  jobCount: number;
 }) {
   const [mode, setMode] = useState<Mode>("upload");
   const [file, setFile] = useState<File | null>(null);
@@ -58,7 +60,8 @@ export default function ResumeUpload({
     <div className="rounded-2xl border border-[#EBE1D3] bg-[#FFFDFA] p-6 shadow-sm">
       <h2 className="text-lg font-semibold text-[#3B342A]">Find your best matches</h2>
       <p className="mt-1 text-sm text-[#6B5F4F]">
-        Upload your resume and we&apos;ll score how well it fits each posting below.
+        Upload your resume and we&apos;ll score it against {jobCount} open postings to surface your
+        strongest matches.
       </p>
 
       <div className="mt-4 flex gap-1 rounded-full bg-[#F1E9DB] p-1 text-sm font-medium w-fit">
