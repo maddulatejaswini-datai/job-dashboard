@@ -135,7 +135,7 @@ async function handleScoreRequest(request: NextRequest) {
       fitScore: Math.max(0, Math.min(100, Math.round(score.fitScore))),
     }));
 
-    return NextResponse.json({ scores: clamped });
+    return NextResponse.json({ scores: clamped, resumeText });
   } catch (err) {
     console.error(err);
     return NextResponse.json({ error: "Scoring failed. Please try again." }, { status: 502 });

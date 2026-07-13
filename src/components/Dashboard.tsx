@@ -4,14 +4,18 @@ import { useMemo, useState } from "react";
 import { Job, ScoreResult } from "@/lib/types";
 import ResumeUpload from "./ResumeUpload";
 import JobCard from "./JobCard";
+import TailorModal from "./TailorModal";
 
 export default function Dashboard({ jobs }: { jobs: Job[] }) {
   const [scores, setScores] = useState<ScoreResult[] | null>(null);
   const [resumeLabel, setResumeLabel] = useState<string | null>(null);
+  const [resumeText, setResumeText] = useState<string | null>(null);
+  const [tailorJob, setTailorJob] = useState<Job | null>(null);
 
-  function handleScored(newScores: ScoreResult[], label: string) {
+  function handleScored(newScores: ScoreResult[], label: string, text: string) {
     setScores(newScores);
     setResumeLabel(label);
+    setResumeText(text);
   }
 
   const scoreById = useMemo(() => {
@@ -41,6 +45,7 @@ export default function Dashboard({ jobs }: { jobs: Job[] }) {
               onClick={() => {
                 setScores(null);
                 setResumeLabel(null);
+                setResumeText(null);
               }}
               className="underline decoration-[#DCCFB8] underline-offset-2 hover:text-[#3B342A]"
             >
@@ -54,10 +59,25 @@ export default function Dashboard({ jobs }: { jobs: Job[] }) {
         {displayJobs.map((job) => {
           const score = scoreById.get(job.id);
           return (
-            <JobCard key={job.id} job={job} fitScore={score?.fitScore} reason={score?.reason} />
+            <JobCard
+              key={job.id}
+              job={job}
+              fitScore={score?.fitScore}
+              reason={score?.reason}
+              hasResume={!!resumeText}
+              onTailorApply={setTailorJob}
+            />
           );
         })}
       </div>
+
+      {tailorJob && resumeText && (
+        <TailorModal
+          job={tailorJob}
+          resumeText={resumeText}
+          onClose={() => setTailorJob(null)}
+        />
+      )}
     </>
   );
 }

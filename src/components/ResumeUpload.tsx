@@ -8,7 +8,7 @@ type Mode = "upload" | "paste";
 export default function ResumeUpload({
   onScored,
 }: {
-  onScored: (scores: ScoreResult[], resumeLabel: string) => void;
+  onScored: (scores: ScoreResult[], resumeLabel: string, resumeText: string) => void;
 }) {
   const [mode, setMode] = useState<Mode>("upload");
   const [file, setFile] = useState<File | null>(null);
@@ -46,7 +46,7 @@ export default function ResumeUpload({
         return;
       }
 
-      onScored(data.scores, label);
+      onScored(data.scores, label, data.resumeText);
     } catch {
       setError("Network error. Please try again.");
     } finally {
